@@ -72,3 +72,27 @@ Transport for NSW API
    Business KPIs & Analytics
             ↓
  Databricks AI Dashboards
+
+
+---
+
+# Technologies Used
+
+- Databricks
+- PySpark
+- Delta Lake
+- SQL
+- Transport for NSW API
+- Databricks Dashboards
+- Databricks Genie AI
+- Medallion Architecture
+- Geospatial Analytics
+
+---
+
+# Data Source
+
+Transport for NSW Park&Ride API:
+
+```text
+https://api.transport.nsw.gov.au/v1/carpark/full-list
